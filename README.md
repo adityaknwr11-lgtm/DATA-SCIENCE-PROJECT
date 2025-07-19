@@ -53,11 +53,11 @@ Web Interface
 
 The web page is clean, minimal, and user-friendly. Users are required to enter values for each health parameter. Upon submission, the values are sent via a POST request to the /predict route in the Flask app, which processes the input, makes a prediction using the trained model, and displays the result as either “Diabetic” or “Not Diabetic”.
 The interface uses basic HTML and CSS for styling, with dropdowns and number input fields to ensure data consistency and user guidance.
-
-
-
-
-
+Outputs:
+![Image](https://github.com/user-attachments/assets/ad2ce9a7-441d-4779-af2f-e4de1586fdef)
+![Image](https://github.com/user-attachments/assets/c80d8c1b-127a-46be-8245-427cc257b8f6)
+![Image](https://github.com/user-attachments/assets/f20891bd-44a0-4124-b74c-b0753020cfa0)
+![Image](https://github.com/user-attachments/assets/4a3da6a4-30f7-4254-bc71-e0bce5e60310)
 
 API Access
 
